@@ -5,3 +5,10 @@ Antarctica
 Australia
 North America
 South America
+Kenya
+Tanzania
+Uganda
+Nigeria
+Zambia
+Congo
+South Africa
